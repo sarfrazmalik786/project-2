@@ -1,0 +1,11 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Calculator app with unit-tested logic and a CI/CD pipeline",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
